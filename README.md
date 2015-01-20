@@ -39,5 +39,3 @@ Versions of tools used:
 - rosdistro version: `0.3.6`
 - vcstools version: `0.1.35`
 
-Delete unnecessary comment
-
