@@ -39,7 +39,5 @@ Versions of tools used:
 - rosdistro version: `0.3.6`
 - vcstools version: `0.1.35`
 
-
-icart_mini_gazebo-release
-=========================
+Delete unnecessary comment
 
