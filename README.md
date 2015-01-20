@@ -1,3 +1,5 @@
+## icart_mini_gazebo (indigo) - 0.0.1-1
+
 The packages in the `icart_mini_gazebo` repository were released into the `indigo` distro by running `/usr/bin/bloom-release icart_mini_gazebo --track indigo --rosdistro indigo --new-track` on `Fri, 28 Nov 2014 16:54:54 -0000`
 
 The `icart_mini_gazebo` package was released.
